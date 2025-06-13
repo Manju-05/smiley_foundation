@@ -12,7 +12,6 @@ The **Smiley Foundation** is a compassionate initiative committed to serving roa
 🔗 [View the GitHub Repository](https://github.com/Manju-05/smiley_foundation)
 
 ---
-
 ## ✨ Features
 
 - 📖 Clean and responsive design
@@ -34,61 +33,49 @@ The **Smiley Foundation** is a compassionate initiative committed to serving roa
 
 ## 📁 Project Structure
 smiley-foundation/
-├── public/
-│ ├── index.html
-│ ├── _redirects
-│ └── ...
-├── assets/
-│ ├── images/
-│ ├── styles/
-│ └── ...
-├── scripts/
-│ └── main.js
-├── README.md
-└── ...
-
+  ├── public/
+  │   ├── index.html
+  │   ├── _redirects
+  │   └── other static files
+  ├── assets/
+  │   ├── images/
+  │   └── styles/
+  ├── scripts/
+  │   └── main.js
+  ├── README.md
+  └── ...
 
 
 ---
 
 ## 🚀 Getting Started (For Developers)
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Manju-05/smiley_foundation.git
-
-Navigate to Project Folder
+To run this project locally, follow these steps:
 
 ```bash
+# Step 1: Clone the repository
+git clone https://github.com/Manju-05/smiley_foundation.git
 
-      cd smiley-foundation
+# Step 2: Navigate to the project directory
+cd smiley-foundation
 
-Open in Code Editor (VS Code)
-```bash
-      code .
+# Step 3: Open the project in VS Code (or your preferred editor)
+code .
 
-Preview Locally
-You can open index.html in your browser or use Live Server extension for real-time preview.
+# Step 4: Open index.html in your browser
+# OR use the Live Server extension to preview in real-time
 
-🙌 How You Can Help
-Spread awareness
 
-Volunteer your time
+📬 Contact
+If you’d like to collaborate or support:
 
-Contribute donations
+📧 Email: smileyfoundation@email.com
 
-Share our website and mission
+📍 Location:Nandyal
 
-Every small act adds up to a big smile 😊
+🌐 Website:smileyfoundation.netlify.app
 
-📩 Contact
-📧 Email: smileyfoundation@gmail.com
-📧 Email: saipathapadu@gmail
+👏 Acknowledgements
+Built with ❤️ by Sai Manjunath Pathapadu
 
-📍 Location: Anywhere hearts beat for kindness
-
-🌟 Acknowledgements
-Built with ❤️ by [Sai Manjunath Pathapadu]
-
-Special thanks to the Smiley Foundation team and supporters
-
+Thanks to the Smiley Foundation team and everyone supporting social service
