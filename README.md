@@ -57,15 +57,15 @@ smiley-foundation/
    ```bash
    git clone https://github.com/Manju-05/smiley_foundation.git
 
-   Navigate to Project Folder
+Navigate to Project Folder
 
 ```bash
 
-cd smiley-foundation
+      cd smiley-foundation
 
 Open in Code Editor (VS Code)
 ```bash
-code .
+      code .
 
 Preview Locally
 You can open index.html in your browser or use Live Server extension for real-time preview.
