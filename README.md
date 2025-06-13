@@ -32,7 +32,7 @@ The **Smiley Foundation** is a compassionate initiative committed to serving roa
 ---
 
 ## 📁 Project Structure
-smiley-foundation/
+<pre> ``` smiley-foundation/
   ├── public/
   │   ├── index.html
   │   ├── _redirects
@@ -44,7 +44,7 @@ smiley-foundation/
   │   └── main.js
   ├── README.md
   └── ...
-
+``` </pre>
 
 ---
 
@@ -64,18 +64,14 @@ code .
 
 # Step 4: Open index.html in your browser
 # OR use the Live Server extension to preview in real-time
+```
 
-
-📬 Contact
+## 📬 Contact
 If you’d like to collaborate or support:
-
 📧 Email: smileyfoundation@email.com
-
 📍 Location:Nandyal
-
 🌐 Website:smileyfoundation.netlify.app
 
-👏 Acknowledgements
-Built with ❤️ by Sai Manjunath Pathapadu
-
+## 👏 Acknowledgements
+*"Built with ❤️ by Sai Manjunath Pathapadu"*
 Thanks to the Smiley Foundation team and everyone supporting social service
