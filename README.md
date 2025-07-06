@@ -55,23 +55,17 @@ To run this project locally, follow these steps:
 ```bash
 # Step 1: Clone the repository
 git clone https://github.com/Manju-05/smiley_foundation.git
-
-# Step 2: Navigate to the project directory
-cd smiley-foundation
-
-# Step 3: Open the project in VS Code (or your preferred editor)
-code .
-
-# Step 4: Open index.html in your browser
-# OR use the Live Server extension to preview in real-time
 ```
 
 ## 📬 Contact
 If you’d like to collaborate or support:
-📧 Email: smileyfoundation@email.com
-📍 Location:Nandyal
-🌐 Website:smileyfoundation.netlify.app
+- 📧 Email : smileyfoundation@email.com
+- 📍 Location : Nandyal
+- 🌐 Website : smileyfoundation.netlify.app
+  
+-------
 
 ## 👏 Acknowledgements
-*"Built with ❤️ by Sai Manjunath Pathapadu"*
-Thanks to the Smiley Foundation team and everyone supporting social service
+
+- *"Built with ❤️ by Sai Manjunath Pathapadu"*
+- Thanks to the Smiley Foundation team and everyone supporting social service
