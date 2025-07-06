@@ -1,6 +1,6 @@
 # 😊 Smiley Foundation
 
-> *"Bringing smiles to those who need them the most."*
+> *"Bringing smiles to those who need them the most"*
 
 The **Smiley Foundation** is a compassionate initiative committed to serving roadside communities and the underprivileged by providing daily essentials such as food, clothing, and hope. This website project showcases our mission, programs, and impact, and serves as a portal for volunteers and donors to connect and contribute.
 
@@ -8,7 +8,7 @@ The **Smiley Foundation** is a compassionate initiative committed to serving roa
 
 ## 🌐 Live Demo
 
-🔗 [Visit the Live Website](smileyfoundation.netlify.app)  
+🔗 [Visit the Live Website](https://smileyfoundation.netlify.app)  
 🔗 [View the GitHub Repository](https://github.com/Manju-05/smiley_foundation)
 
 ---
@@ -18,7 +18,7 @@ The **Smiley Foundation** is a compassionate initiative committed to serving roa
 - 🧭 Easy navigation across all sections
 - 💖 Highlights of Smiley Foundation's missions and services
 - 🖼️ Gallery section to showcase real-time impact
-- 📞 Contact form for volunteers/donors
+- 📞 Contact form for enquiries
 - ⚡ Deployed using Netlify
 
 ---
@@ -67,5 +67,5 @@ If you’d like to collaborate or support:
 
 ## 👏 Acknowledgements
 
-- *"Built with ❤️ by Sai Manjunath Pathapadu"*
+- > *"Built with ❤️ by Sai Manjunath Pathapadu"*
 - Thanks to the Smiley Foundation team and everyone supporting social service
